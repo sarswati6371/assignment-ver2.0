@@ -1,0 +1,1 @@
+document.write("I have a Ford, it is a Mustang")
